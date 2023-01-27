@@ -1,0 +1,24 @@
+:root{
+    --cor-primaria: #ABC90B;
+    --cor-secundaria: #fff;
+    --letra-branca: #fef8fc;
+    --letra-preta: #000;
+    --letra-cinza: #8c8c8c;
+}
+.logo-rodape{
+    width: 111px;
+    height: 19px;
+}
+.text-gray-800{
+    text-align: center;
+}
+.text-gray-800-alt{
+    color: var(--letra-cinza);
+    text-align: left;
+}
+.font-bold{
+    color: var(--cor-primaria);
+}
+.text-green-700-alt{
+    color: var(--cor-primaria);
+}
