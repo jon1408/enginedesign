@@ -227,6 +227,7 @@ h1, h2, p {
 
   .galeria{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
     width: 100%;
